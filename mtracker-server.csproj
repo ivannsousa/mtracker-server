@@ -7,4 +7,8 @@
     <RootNamespace>mtracker_server</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="2.24.0" />
+  </ItemGroup>
+
 </Project>
